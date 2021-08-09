@@ -1407,7 +1407,7 @@ footer .insta{
     }
     
 }
-@media(max-width: 296px){
+@media(max-width: 360px){
     .main{
         font-size: 20px;
         left: 30px;
