@@ -1470,7 +1470,8 @@ footer .insta{
         margin-left: 90px;
     }
     .other{
-        min-height: 70vh;
+        padding-top: 50px;
+        min-height: 100vh;
     }
     .fridge{
     margin-left: 90px;
@@ -1491,7 +1492,7 @@ footer .insta{
         margin-left: 90px;
     }
     #ref{
-        min-height: 70vh;
+        min-height: 100vh;
     }
     .divid{
         display: flex;
@@ -1579,6 +1580,7 @@ footer .insta{
         margin-left: 90px;
     }
     #other{
+        padding-top: 50px;
         min-height: 70vh;
     }
     .fridge{
@@ -1600,7 +1602,7 @@ footer .insta{
         margin-left: 90px;
     }
     #ref{
-        min-height: 70vh;
+        min-height: 100vh;
     }
     .divid{
         display: flex;
