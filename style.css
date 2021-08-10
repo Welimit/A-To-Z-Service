@@ -1469,6 +1469,9 @@ footer .insta{
     .ins{
         margin-left: 90px;
     }
+    .other{
+        min-height: 70vh;
+    }
     .fridge{
     margin-left: 90px;
     }
@@ -1486,6 +1489,9 @@ footer .insta{
     }
     .net{
         margin-left: 90px;
+    }
+    #ref{
+        min-height: 70vh;
     }
     .divid{
         display: flex;
@@ -1572,6 +1578,9 @@ footer .insta{
     .ins{
         margin-left: 90px;
     }
+    #other{
+        min-height: 70vh;
+    }
     .fridge{
     margin-left: 90px;
     }
@@ -1589,6 +1598,9 @@ footer .insta{
     }
     .net{
         margin-left: 90px;
+    }
+    #ref{
+        min-height: 70vh;
     }
     .divid{
         display: flex;
